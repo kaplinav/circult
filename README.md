@@ -4,7 +4,7 @@ Boolean circuit analysis tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-*Project status:* **Under development**
+Project status: **Under development**
 
 
 ## Publications

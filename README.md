@@ -1,4 +1,4 @@
-# circult
+# Circult
 
 Boolean circuit analysis tool
 

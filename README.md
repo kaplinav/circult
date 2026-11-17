@@ -13,7 +13,7 @@ The development of Circult is described in the following publications:
 
 1. A. Kaplin and V. Pak, Circult: An Interactive Web-Based Solution for Visualizing Boolean Circuits, 2024. Available at: https://ssrn.com/abstract=4975430
 
-2. A. Kaplin, The Evolution of Circult: A Modular Pipeline Architecture for Cross-Format Boolean Circuit Visualization, 2025.
+2. A. Kaplin, The Evolution of Circult: A Modular Pipeline Architecture for Cross-Format Boolean Circuit Visualization, 2025. Available at: https://ssrn.com/abstract=5334968
 
 These publications describe the original web-based implementation and its subsequent architectural evolution.
 
